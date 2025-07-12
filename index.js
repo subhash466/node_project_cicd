@@ -5,7 +5,7 @@ const express = require('express');
 
 // Express app create karo
 const app = express();
-const port = 3000;  // Server kis port pe chalega
+const port = 4000;  // Server kis port pe chalega
 
 // Simple GET route create karo
 app.get('/', (req, res) => {
